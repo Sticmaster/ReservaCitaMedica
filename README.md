@@ -41,6 +41,11 @@ Version de Python : **3.11.7**
    python manage.py runserver
    ```
    El servidor se ejecutará en [http://localhost:8000](http://localhost:8000) por defecto.
+
+6. **Ejecutar testing**
+   ```bash
+   python manage.py test
+   ```
    
    Para revisar el **swagger** consultar en  en [http://localhost:8000/swagger/](http://localhost:8000/swagger)
 
